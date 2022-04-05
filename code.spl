@@ -1,0 +1,2 @@
+c = "test123"
+print(c)
